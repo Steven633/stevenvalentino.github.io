@@ -446,20 +446,12 @@
   line-height: normal;
 }
 
-.frame .overlap-3 {
-  position: absolute;
-  width: 1920px;
-  height: 2442px;
-  top: 2168px;
-  left: 0;
-}
-
 .frame .portfolio {
   width: 1920px;
   height: 2442px;
+  top: 2168px;
   background-color: #fafafa;
   position: absolute;
-  top: 0;
   left: 0;
 }
 
@@ -472,6 +464,7 @@
 }
 
 .frame .portfolio-2 {
+  top: 0;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: transparent;
@@ -481,7 +474,6 @@
   line-height: 100px;
   white-space: nowrap;
   position: absolute;
-  top: 0;
   left: 0;
 }
 
@@ -777,7 +769,7 @@
   left: 1296px;
 }
 
-.frame .overlap-4 {
+.frame .overlap-3 {
   position: relative;
   width: 575px;
   height: 645px;

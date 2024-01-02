@@ -9,8 +9,8 @@
 .frame .div {
   background-color: #ffffff;
   overflow: hidden;
-  width: 1920px;
-  height: 3654px;
+  width: 1899px;
+  height: 5052px;
   position: relative;
 }
 
@@ -27,7 +27,7 @@
   position: absolute;
   top: 42px;
   left: 752px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 18px;
@@ -39,7 +39,7 @@
   position: absolute;
   top: 42px;
   left: 910px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 18px;
@@ -51,7 +51,7 @@
   position: absolute;
   top: 42px;
   left: 1091px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 18px;
@@ -96,7 +96,7 @@
   width: 468px;
   top: 0;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #000000;
   font-size: 20px;
@@ -109,7 +109,7 @@
   width: 468px;
   top: 29px;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #ff9933;
   font-size: 32px;
@@ -138,7 +138,7 @@
   height: 100px;
   top: 0;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #000000;
   font-size: 100px;
@@ -178,7 +178,7 @@
   width: 535px;
   top: 0;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
   font-size: 20px;
@@ -286,7 +286,7 @@
   position: absolute;
   top: 0;
   left: 290px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: transparent;
   font-size: 65px;
@@ -309,7 +309,7 @@
   width: 875px;
   top: 100px;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
   font-size: 20px;
@@ -355,7 +355,7 @@
   position: absolute;
   top: 0;
   left: 4px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #000000;
   font-size: 32px;
@@ -370,7 +370,7 @@
   width: 357px;
   top: 60px;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
   color: #5e5e5e;
   font-size: 24px;
@@ -393,7 +393,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #000000;
   font-size: 32px;
@@ -408,7 +408,7 @@
   width: 357px;
   top: 60px;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
   font-size: 24px;
@@ -438,7 +438,7 @@
   width: 357px;
   top: 60px;
   left: 4px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Regular", Helvetica;
   font-weight: 400;
   color: #5e5e5e;
   font-size: 24px;
@@ -446,12 +446,20 @@
   line-height: normal;
 }
 
+.frame .overlap-3 {
+  position: absolute;
+  width: 1920px;
+  height: 2442px;
+  top: 2168px;
+  left: 0;
+}
+
 .frame .portfolio {
   width: 1920px;
-  height: 1088px;
-  top: 2168px;
+  height: 2442px;
   background-color: #fafafa;
   position: absolute;
+  top: 0;
   left: 0;
 }
 
@@ -464,8 +472,7 @@
 }
 
 .frame .portfolio-2 {
-  top: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: transparent;
   font-size: 65px;
@@ -474,24 +481,16 @@
   line-height: 100px;
   white-space: nowrap;
   position: absolute;
+  top: 0;
   left: 0;
-}
-
-.frame .div-2 {
-  position: absolute;
-  width: 1820px;
-  height: 645px;
-  top: 309px;
-  left: 50px;
-  overflow-x: scroll;
 }
 
 .frame .div-wrapper {
   position: absolute;
   width: 575px;
   height: 645px;
-  top: 0;
-  left: 0;
+  top: 250px;
+  left: 50px;
 }
 
 .frame .overlap-group-4 {
@@ -516,7 +515,7 @@
   position: absolute;
   top: 569px;
   left: 214px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -529,15 +528,15 @@
   position: absolute;
   width: 575px;
   height: 645px;
-  top: 0;
-  left: 623px;
+  top: 250px;
+  left: 673px;
 }
 
 .frame .text-wrapper-15 {
   position: absolute;
   top: 569px;
   left: 238px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -550,8 +549,8 @@
   position: absolute;
   width: 575px;
   height: 645px;
-  top: 0;
-  left: 1246px;
+  top: 250px;
+  left: 1296px;
 }
 
 .frame .group-4 {
@@ -574,11 +573,11 @@
 }
 
 .frame .image-2 {
+  position: absolute;
   width: 151px;
   height: 307px;
   top: 60px;
   left: 88px;
-  position: absolute;
   object-fit: cover;
 }
 
@@ -586,7 +585,7 @@
   position: absolute;
   top: 569px;
   left: 259px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -599,8 +598,8 @@
   position: absolute;
   width: 575px;
   height: 645px;
-  top: 0;
-  left: 1869px;
+  top: 939px;
+  left: 50px;
 }
 
 .frame .group-wrapper {
@@ -625,7 +624,7 @@
   position: absolute;
   top: 569px;
   left: 216px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -638,11 +637,11 @@
   position: absolute;
   width: 575px;
   height: 645px;
-  top: 0;
-  left: 2492px;
+  top: 939px;
+  left: 673px;
 }
 
-.frame .overlap-3 {
+.frame .overlap-group-5 {
   position: relative;
   width: 573px;
   height: 645px;
@@ -676,7 +675,7 @@
   height: 291px;
   top: 111px;
   left: 24px;
-  background-image: url(./img/laptop-png-free-download-1.png);
+  background-image: url(./img/laptop-PNG-free-download-1-2.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -694,7 +693,7 @@
   position: absolute;
   top: 569px;
   left: 234px;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -703,12 +702,141 @@
   line-height: normal;
 }
 
+.frame .group-9 {
+  position: absolute;
+  width: 575px;
+  height: 645px;
+  top: 1646px;
+  left: 50px;
+}
+
+.frame .laptop-PNG-free {
+  position: absolute;
+  width: 485px;
+  height: 291px;
+  top: 111px;
+  left: 24px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-19 {
+  position: absolute;
+  top: 569px;
+  left: 145px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 533px;
+  height: 514px;
+  top: 20px;
+  left: 20px;
+  background-color: #3556a8;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.frame .screencapture {
+  position: absolute;
+  width: 367px;
+  height: 208px;
+  top: 251px;
+  left: 153px;
+  object-fit: cover;
+}
+
+.frame .image-3 {
+  width: 381px;
+  height: 187px;
+  top: 173px;
+  left: 100px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-4 {
+  width: 379px;
+  height: 186px;
+  top: 85px;
+  left: 66px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .group-10 {
+  position: absolute;
+  width: 573px;
+  height: 645px;
+  top: 939px;
+  left: 1296px;
+}
+
+.frame .overlap-4 {
+  position: relative;
+  width: 575px;
+  height: 645px;
+}
+
+.frame .group-11 {
+  position: absolute;
+  width: 575px;
+  height: 645px;
+  top: 0;
+  left: 0;
+}
+
+.frame .text-wrapper-20 {
+  position: absolute;
+  top: 569px;
+  left: 184px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 533px;
+  height: 514px;
+  top: 20px;
+  left: 20px;
+  background-color: #1e83ce;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.frame .screencapture-2 {
+  position: absolute;
+  width: 367px;
+  height: 208px;
+  top: 251px;
+  left: 153px;
+}
+
+.frame .image-5 {
+  width: 371px;
+  height: 179px;
+  top: 109px;
+  left: 54px;
+  position: absolute;
+  object-fit: cover;
+}
+
 .frame .footer {
   position: absolute;
   width: 1920px;
   height: 442px;
-  top: 3256px;
-  left: -1px;
+  top: 4610px;
+  left: 0;
   background-color: transparent;
 }
 
@@ -720,11 +848,11 @@
   left: 817px;
 }
 
-.frame .text-wrapper-19 {
+.frame .text-wrapper-21 {
   position: absolute;
   top: 0;
   left: 0;
-  font-family: "Poppins", Helvetica;
+  font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #ff9933;
   font-size: 65px;

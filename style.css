@@ -27,7 +27,7 @@
   position: absolute;
   top: 42px;
   left: 752px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 18px;
@@ -39,7 +39,7 @@
   position: absolute;
   top: 42px;
   left: 910px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 18px;
@@ -51,7 +51,7 @@
   position: absolute;
   top: 42px;
   left: 1091px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 18px;
@@ -96,7 +96,7 @@
   width: 468px;
   top: 0;
   left: 0;
-  font-family: "Poppins-SemiBold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 600;
   color: #000000;
   font-size: 20px;
@@ -109,7 +109,7 @@
   width: 468px;
   top: 29px;
   left: 0;
-  font-family: "Poppins-SemiBold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 600;
   color: #ff9933;
   font-size: 32px;
@@ -138,7 +138,7 @@
   height: 100px;
   top: 0;
   left: 0;
-  font-family: "Poppins-SemiBold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 600;
   color: #000000;
   font-size: 100px;
@@ -178,7 +178,7 @@
   width: 535px;
   top: 0;
   left: 0;
-  font-family: "Poppins-Regular", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 400;
   color: #000000;
   font-size: 20px;
@@ -286,7 +286,7 @@
   position: absolute;
   top: 0;
   left: 290px;
-  font-family: "Poppins-SemiBold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 600;
   color: transparent;
   font-size: 65px;
@@ -309,7 +309,7 @@
   width: 875px;
   top: 100px;
   left: 0;
-  font-family: "Poppins-Regular", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 400;
   color: #000000;
   font-size: 20px;
@@ -355,7 +355,7 @@
   position: absolute;
   top: 0;
   left: 4px;
-  font-family: "Poppins-SemiBold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 600;
   color: #000000;
   font-size: 32px;
@@ -370,7 +370,7 @@
   width: 357px;
   top: 60px;
   left: 0;
-  font-family: "Poppins-Regular", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 400;
   color: #5e5e5e;
   font-size: 24px;
@@ -393,7 +393,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  font-family: "Poppins-SemiBold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 600;
   color: #000000;
   font-size: 32px;
@@ -408,7 +408,7 @@
   width: 357px;
   top: 60px;
   left: 0;
-  font-family: "Poppins-Regular", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 400;
   color: #000000;
   font-size: 24px;
@@ -438,7 +438,7 @@
   width: 357px;
   top: 60px;
   left: 4px;
-  font-family: "Poppins-Regular", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 400;
   color: #5e5e5e;
   font-size: 24px;
@@ -465,7 +465,7 @@
 
 .frame .portfolio-2 {
   top: 0;
-  font-family: "Poppins-SemiBold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 600;
   color: transparent;
   font-size: 65px;
@@ -507,7 +507,7 @@
   position: absolute;
   top: 569px;
   left: 214px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -528,7 +528,7 @@
   position: absolute;
   top: 569px;
   left: 238px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -577,7 +577,7 @@
   position: absolute;
   top: 569px;
   left: 259px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -616,7 +616,7 @@
   position: absolute;
   top: 569px;
   left: 216px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -667,7 +667,7 @@
   height: 291px;
   top: 111px;
   left: 24px;
-  background-image: url(./img/laptop-PNG-free-download-1-2.png);
+  background-image: url(./img/laptop-png-free-download-1.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -685,7 +685,7 @@
   position: absolute;
   top: 569px;
   left: 234px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -715,7 +715,7 @@
   position: absolute;
   top: 569px;
   left: 145px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -787,7 +787,7 @@
   position: absolute;
   top: 569px;
   left: 184px;
-  font-family: "Poppins-Bold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 700;
   color: #000000;
   font-size: 24px;
@@ -844,7 +844,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  font-family: "Poppins-SemiBold", Helvetica;
+  font-family: "Poppins", Helvetica;
   font-weight: 600;
   color: #ff9933;
   font-size: 65px;

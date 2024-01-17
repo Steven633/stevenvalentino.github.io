@@ -629,11 +629,82 @@
   position: absolute;
   width: 575px;
   height: 645px;
+  top: 1646px;
+  left: 673px;
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 533px;
+  height: 514px;
+  top: 20px;
+  left: 20px;
+  background-color: #454a1a;
+  border-radius: 10px;
+}
+
+.frame .group-8 {
+  position: relative;
+  width: 467px;
+  height: 450px;
+  top: 33px;
+  left: 34px;
+}
+
+.frame .overlap-group-5 {
+  position: relative;
+  height: 450px;
+}
+
+.frame .screencapture-fap-co {
+  position: absolute;
+  width: 328px;
+  height: 337px;
+  top: 56px;
+  left: 139px;
+  object-fit: cover;
+}
+
+.frame .screencapture-fap-co-2 {
+  width: 220px;
+  height: 418px;
+  top: 16px;
+  left: 105px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .screencapture-fap-co-3 {
+  width: 215px;
+  height: 450px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-18 {
+  position: absolute;
+  top: 569px;
+  left: 131px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .group-9 {
+  position: absolute;
+  width: 575px;
+  height: 645px;
   top: 939px;
   left: 673px;
 }
 
-.frame .overlap-group-5 {
+.frame .overlap-group-6 {
   position: relative;
   width: 573px;
   height: 645px;
@@ -651,7 +722,7 @@
   box-shadow: 0px 24px 48px #00000014, 0px 12px 24px #00000014;
 }
 
-.frame .group-8 {
+.frame .group-10 {
   position: absolute;
   width: 533px;
   height: 514px;
@@ -681,7 +752,7 @@
   object-fit: cover;
 }
 
-.frame .text-wrapper-18 {
+.frame .text-wrapper-19 {
   position: absolute;
   top: 569px;
   left: 234px;
@@ -694,7 +765,7 @@
   line-height: normal;
 }
 
-.frame .group-9 {
+.frame .group-11 {
   position: absolute;
   width: 575px;
   height: 645px;
@@ -711,7 +782,7 @@
   object-fit: cover;
 }
 
-.frame .text-wrapper-19 {
+.frame .text-wrapper-20 {
   position: absolute;
   top: 569px;
   left: 145px;
@@ -761,7 +832,7 @@
   object-fit: cover;
 }
 
-.frame .group-10 {
+.frame .group-12 {
   position: absolute;
   width: 573px;
   height: 645px;
@@ -769,13 +840,13 @@
   left: 1296px;
 }
 
-.frame .overlap-3 {
+.frame .overlap-4 {
   position: relative;
   width: 575px;
   height: 645px;
 }
 
-.frame .group-11 {
+.frame .group-13 {
   position: absolute;
   width: 575px;
   height: 645px;
@@ -783,7 +854,7 @@
   left: 0;
 }
 
-.frame .text-wrapper-20 {
+.frame .text-wrapper-21 {
   position: absolute;
   top: 569px;
   left: 184px;
@@ -840,7 +911,7 @@
   left: 817px;
 }
 
-.frame .text-wrapper-21 {
+.frame .text-wrapper-22 {
   position: absolute;
   top: 0;
   left: 0;

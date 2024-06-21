@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (index < text.length) {
             textElement.innerHTML += text.charAt(index);
             index++;
-            setTimeout(type, 100);
+            setTimeout(type, 55);
         }
     }
 

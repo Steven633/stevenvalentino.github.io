@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
   document.addEventListener("DOMContentLoaded", function() {
-    const box = document.querySelector('.box');
+    const box = document.querySelector('.containerr');
 
     function checkVisibility() {
         const rect = box.getBoundingClientRect();

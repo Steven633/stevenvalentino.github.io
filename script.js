@@ -15,4 +15,21 @@ document.getElementById('download-button').addEventListener('click', function() 
     // Remove the anchor element from the body
     document.body.removeChild(downloadLink);
   });
+
+document.addEventListener("DOMContentLoaded", function() {
+    const textElement = document.querySelector(".typewriter-text");
+    const text = "A Computer Science graduate from Binus University with a strong background in systems analysis and user interface (UI/UX) design. Have a deep understanding of software development and experience in analyzing user needs and designing intuitive and engaging solutions. Committed to making a positive contribution in developing innovative and quality systems.";
+    let index = 0;
+
+    function type() {
+        if (index < text.length) {
+            textElement.innerHTML += text.charAt(index);
+            index++;
+            setTimeout(type, 100);
+        }
+    }
+
+    type();
+});
+
   

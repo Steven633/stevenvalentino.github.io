@@ -32,4 +32,22 @@ document.addEventListener("DOMContentLoaded", function() {
     type();
 });
 
-  
+  document.addEventListener("DOMContentLoaded", function() {
+    const box = document.querySelector('.box');
+
+    function checkVisibility() {
+        const rect = box.getBoundingClientRect();
+        const windowHeight = window.innerHeight || document.documentElement.clientHeight;
+
+        if (rect.top <= windowHeight) {
+            box.classList.add('visible');
+        }
+    }
+
+    document.addEventListener('scroll', checkVisibility);
+    window.addEventListener('resize', checkVisibility);
+
+    // Initial check in case the element is already visible on page load
+    checkVisibility();
+});
+
